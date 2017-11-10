@@ -1,6 +1,232 @@
-
-{ "_id" : { "$oid" : "52853810bb1177ca391c325e" }, "Ticker" : "ZSL", "Sector" : "Financial", "Change from Open" : -0.0104, "Performance (YTD)" : 0.6469, "Performance (Week)" : 0.1199, "Performance (Quarter)" : 0.1577, "200-Day Simple Moving Average" : 0.08740000000000001, "52-Week High" : -0.3058, "Change" : -0.0213, "Volatility (Week)" : 0.0268, "Country" : "USA", "50-Day Low" : 0.3103, "Price" : 80.7, "50-Day High" : -0.039, "Industry" : "Exchange Traded Fund", "52-Week Low" : 1.0457, "Average True Range" : 2.5, "Company" : "ProShares UltraShort Silver", "Gap" : -0.011, "Relative Volume" : 0.4, "Volatility (Month)" : 0.0228, "Volume" : 143620, "Performance (Half Year)" : 0.043, "Relative Strength Index (14)" : 66.19, "20-Day Simple Moving Average" : 0.1056, "Performance (Month)" : 0.06279999999999999, "Performance (Year)" : 0.8501, "Average Volume" : 397.3, "50-Day Simple Moving Average" : 0.091 }
-{ "_id" : { "$oid" : "52853810bb1177ca391c325f" }, "Ticker" : "ZTR", "Sector" : "Financial", "Change from Open" : 0.008200000000000001, "Performance (YTD)" : 0.1736, "Performance (Week)" : 0.0045, "Performance (Quarter)" : 0.0582, "200-Day Simple Moving Average" : 0.07140000000000001, "52-Week High" : 0, "Change" : 0.0059, "Volatility (Week)" : 0.0076, "Country" : "USA", "50-Day Low" : 0.0771, "Price" : 13.53, "50-Day High" : 0, "Industry" : "Closed-End Fund - Equity", "52-Week Low" : 0.2319, "Average True Range" : 0.1, "Company" : "Zweig Total Return Fund Inc.", "Gap" : -0.0022, "Relative Volume" : 0.79, "Volatility (Month)" : 0.007, "Volume" : 65311, "Short Ratio" : 0.36, "Performance (Half Year)" : 0.0443, "Relative Strength Index (14)" : 68.51000000000001, "20-Day Simple Moving Average" : 0.0128, "Performance (Month)" : 0.0314, "Performance (Year)" : 0.185, "Average Volume" : 91.86, "50-Day Simple Moving Average" : 0.0338 }
-{ "_id" : { "$oid" : "52853810bb1177ca391c3260" }, "Ticker" : "ZTS", "Profit Margin" : 0.095, "Institutional Ownership" : 0.983, "EPS growth past 5 years" : 0, "Total Debt/Equity" : 4.57, "Current Ratio" : 2.3, "Return on Assets" : 0.068, "Sector" : "Healthcare", "P/S" : 3.61, "Change from Open" : -0.008800000000000001, "Performance (YTD)" : 0.0292, "Performance (Week)" : 0.0144, "Quick Ratio" : 1.4, "Insider Transactions" : 0.005, "P/B" : 19.82, "EPS growth quarter over quarter" : -0.257, "Payout Ratio" : 0.155, "Performance (Quarter)" : 0.0587, "Forward P/E" : 19.57, "P/E" : 37.76, "200-Day Simple Moving Average" : -0.0043, "Shares Outstanding" : 500, "Earnings Date" : { "$date" : 1383658200000 }, "52-Week High" : -0.101, "P/Cash" : 42.98, "Change" : -0.0022, "Analyst Recom" : 1.7, "Volatility (Week)" : 0.0178, "Country" : "USA", "Return on Equity" : 0.174, "50-Day Low" : 0.0692, "Price" : 31.65, "50-Day High" : -0.0487, "Return on Investment" : 0.095, "Shares Float" : 499.96, "Dividend Yield" : 0.008200000000000001, "EPS growth next 5 years" : 0.1737, "Industry" : "Drugs - Generic", "Sales growth quarter over quarter" : 0.018, "Operating Margin" : 0.209, "EPS (ttm)" : 0.84, "PEG" : 2.17, "Float Short" : 0.0138, "52-Week Low" : 0.1008, "Average True Range" : 0.62, "EPS growth next year" : 0.1554, "Company" : "Zoetis Inc.", "Gap" : 0.0066, "Relative Volume" : 0.65, "Volatility (Month)" : 0.0185, "Market Cap" : 15860, "Volume" : 2378142, "Gross Margin" : 0.637, "Short Ratio" : 1.72, "Performance (Half Year)" : -0.046, "Relative Strength Index (14)" : 44.83, "Insider Ownership" : 0.0004, "20-Day Simple Moving Average" : -0.0127, "Performance (Month)" : -0.008800000000000001, "P/Free Cash Flow" : 33.89, "Institutional Transactions" : 0.032, "LT Debt/Equity" : 4.55, "Average Volume" : 4032.97, "EPS growth this year" : 0.776, "50-Day Simple Moving Average" : -0.0041 }
-{ "_id" : { "$oid" : "52853810bb1177ca391c3261" }, "Ticker" : "ZUMZ", "Profit Margin" : 0.06, "Institutional Ownership" : 0.824, "EPS growth past 5 years" : 0.094, "Total Debt/Equity" : 0.02, "Current Ratio" : 2.7, "Return on Assets" : 0.1, "Sector" : "Services", "P/S" : 1.24, "Change from Open" : 0.0034, "Performance (YTD)" : 0.5234, "Performance (Week)" : 0.013, "Quick Ratio" : 1.4, "Insider Transactions" : -0.1047, "P/B" : 2.85, "EPS growth quarter over quarter" : -0.238, "Payout Ratio" : 0, "Performance (Quarter)" : 0.0497, "Forward P/E" : 16.48, "P/E" : 21.27, "200-Day Simple Moving Average" : 0.07729999999999999, "Shares Outstanding" : 29.84, "Earnings Date" : { "$date" : 1386279000000 }, "52-Week High" : -0.1176, "P/Cash" : 9.289999999999999, "Change" : -0.0003, "Analyst Recom" : 2.6, "Volatility (Week)" : 0.0332, "Country" : "USA", "Return on Equity" : 0.141, "50-Day Low" : 0.2353, "Price" : 29.56, "50-Day High" : -0.0231, "Return on Investment" : 0.131, "Shares Float" : 22.12, "EPS growth next 5 years" : 0.1483, "Industry" : "Specialty Retail, Other", "Beta" : 1.62, "Sales growth quarter over quarter" : -0.404, "Operating Margin" : 0.099, "EPS (ttm)" : 1.39, "PEG" : 1.43, "Float Short" : 0.1832, "52-Week Low" : 0.6486, "Average True Range" : 0.89, "EPS growth next year" : 0.1376, "Sales growth past 5 years" : 0.119, "Company" : "Zumiez, Inc.", "Gap" : -0.0037, "Relative Volume" : 0.91, "Volatility (Month)" : 0.0305, "Market Cap" : 882.4299999999999, "Volume" : 185092, "Gross Margin" : 0.36, "Short Ratio" : 17.99, "Performance (Half Year)" : -0.0873, "Relative Strength Index (14)" : 56.9, "Insider Ownership" : 0.143, "20-Day Simple Moving Average" : 0.0083, "Performance (Month)" : 0.0464, "P/Free Cash Flow" : 31.52, "Institutional Transactions" : 0.0241, "Performance (Year)" : 0.4467, "LT Debt/Equity" : 0.02, "Average Volume" : 225.29, "EPS growth this year" : 0.125, "50-Day Simple Moving Average" : 0.0463 }
-{ "_id" : { "$oid" : "52853810bb1177ca391c3262" }, "Ticker" : "ZX", "Profit Margin" : 0.064, "Institutional Ownership" : 0.208, "EPS growth past 5 years" : 0.433, "Total Debt/Equity" : 0.26, "Current Ratio" : 1.3, "Return on Assets" : 0.053, "Sector" : "Consumer Goods", "P/S" : 0.35, "Change from Open" : 0.0052, "Performance (YTD)" : 0.2776, "Performance (Week)" : -0.0545, "Quick Ratio" : 1.1, "P/B" : 0.5, "EPS growth quarter over quarter" : -0.385, "Payout Ratio" : 0, "Performance (Quarter)" : 0.2949, "Forward P/E" : 3.7, "P/E" : 5.46, "200-Day Simple Moving Average" : 0.2125, "Shares Outstanding" : 51.63, "Earnings Date" : { "$date" : 1384954200000 }, "52-Week High" : -0.103, "P/Cash" : 1.36, "Change" : 0.0026, "Analyst Recom" : 2, "Volatility (Week)" : 0.0516, "Country" : "China", "Return on Equity" : 0.096, "50-Day Low" : 0.3345, "Price" : 3.83, "50-Day High" : -0.103, "Return on Investment" : 0.121, "Shares Float" : 12.39, "Dividend Yield" : 0.0157, "EPS growth next 5 years" : 0.15, "Industry" : "Auto Parts", "Sales growth quarter over quarter" : -0.063, "Operating Margin" : 0.089, "EPS (ttm)" : 0.7, "PEG" : 0.36, "Float Short" : 0.0012, "52-Week Low" : 0.5891999999999999, "Average True Range" : 0.2, "EPS growth next year" : 0.1821, "Sales growth past 5 years" : 0.23, "Company" : "China Zenix Auto International Ltd.", "Gap" : -0.0026, "Relative Volume" : 0.05, "Volatility (Month)" : 0.0527, "Market Cap" : 197.21, "Volume" : 1103, "Gross Margin" : 0.22, "Short Ratio" : 0.65, "Performance (Half Year)" : 0.3038, "Relative Strength Index (14)" : 50.03, "20-Day Simple Moving Average" : 0, "Performance (Month)" : -0.0104, "P/Free Cash Flow" : 3.22, "Institutional Transactions" : -0.0667, "Performance (Year)" : 0.3357, "LT Debt/Equity" : 0, "Average Volume" : 22.69, "EPS growth this year" : -0.201, "50-Day Simple Moving Average" : 0.032 }
+[
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "company": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "username": "Samantha",
+    "email": "Nathan@yesenia.net",
+    "address": {
+      "street": "Douglas Extension",
+      "suite": "Suite 847",
+      "city": "McKenziehaven",
+      "zipcode": "59590-4157",
+      "geo": {
+        "lat": "-68.6102",
+        "lng": "-47.0653"
+      }
+    },
+    "phone": "1-463-123-4447",
+    "website": "ramiro.info",
+    "company": {
+      "name": "Romaguera-Jacobson",
+      "catchPhrase": "Face to face bifurcated interface",
+      "bs": "e-enable strategic applications"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "username": "Karianne",
+    "email": "Julianne.OConner@kory.org",
+    "address": {
+      "street": "Hoeger Mall",
+      "suite": "Apt. 692",
+      "city": "South Elvis",
+      "zipcode": "53919-4257",
+      "geo": {
+        "lat": "29.4572",
+        "lng": "-164.2990"
+      }
+    },
+    "phone": "493-170-9623 x156",
+    "website": "kale.biz",
+    "company": {
+      "name": "Robel-Corkery",
+      "catchPhrase": "Multi-tiered zero tolerance productivity",
+      "bs": "transition cutting-edge web services"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Chelsey Dietrich",
+    "username": "Kamren",
+    "email": "Lucio_Hettinger@annie.ca",
+    "address": {
+      "street": "Skiles Walks",
+      "suite": "Suite 351",
+      "city": "Roscoeview",
+      "zipcode": "33263",
+      "geo": {
+        "lat": "-31.8129",
+        "lng": "62.5342"
+      }
+    },
+    "phone": "(254)954-1289",
+    "website": "demarco.info",
+    "company": {
+      "name": "Keebler LLC",
+      "catchPhrase": "User-centric fault-tolerant solution",
+      "bs": "revolutionize end-to-end systems"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Mrs. Dennis Schulist",
+    "username": "Leopoldo_Corkery",
+    "email": "Karley_Dach@jasper.info",
+    "address": {
+      "street": "Norberto Crossing",
+      "suite": "Apt. 950",
+      "city": "South Christy",
+      "zipcode": "23505-1337",
+      "geo": {
+        "lat": "-71.4197",
+        "lng": "71.7478"
+      }
+    },
+    "phone": "1-477-935-8478 x6430",
+    "website": "ola.org",
+    "company": {
+      "name": "Considine-Lockman",
+      "catchPhrase": "Synchronised bottom-line interface",
+      "bs": "e-enable innovative applications"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Kurtis Weissnat",
+    "username": "Elwyn.Skiles",
+    "email": "Telly.Hoeger@billy.biz",
+    "address": {
+      "street": "Rex Trail",
+      "suite": "Suite 280",
+      "city": "Howemouth",
+      "zipcode": "58804-1099",
+      "geo": {
+        "lat": "24.8918",
+        "lng": "21.8984"
+      }
+    },
+    "phone": "210.067.6132",
+    "website": "elvis.io",
+    "company": {
+      "name": "Johns Group",
+      "catchPhrase": "Configurable multimedia task-force",
+      "bs": "generate enterprise e-tailers"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Nicholas Runolfsdottir V",
+    "username": "Maxime_Nienow",
+    "email": "Sherwood@rosamond.me",
+    "address": {
+      "street": "Ellsworth Summit",
+      "suite": "Suite 729",
+      "city": "Aliyaview",
+      "zipcode": "45169",
+      "geo": {
+        "lat": "-14.3990",
+        "lng": "-120.7677"
+      }
+    },
+    "phone": "586.493.6943 x140",
+    "website": "jacynthe.com",
+    "company": {
+      "name": "Abernathy Group",
+      "catchPhrase": "Implemented secondary concept",
+      "bs": "e-enable extensible e-tailers"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Glenna Reichert",
+    "username": "Delphine",
+    "email": "Chaim_McDermott@dana.io",
+    "address": {
+      "street": "Dayna Park",
+      "suite": "Suite 449",
+      "city": "Bartholomebury",
+      "zipcode": "76495-3109",
+      "geo": {
+        "lat": "24.6463",
+        "lng": "-168.8889"
+      }
+    },
+    "phone": "(775)976-6794 x41206",
+    "website": "conrad.com",
+    "company": {
+      "name": "Yost and Sons",
+      "catchPhrase": "Switchable contextually-based project",
+      "bs": "aggregate real-time technologies"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Clementina DuBuque",
+    "username": "Moriah.Stanton",
+    "email": "Rey.Padberg@karina.biz",
+    "address": {
+      "street": "Kattie Turnpike",
+      "suite": "Suite 198",
+      "city": "Lebsackbury",
+      "zipcode": "31428-2261",
+      "geo": {
+        "lat": "-38.2386",
+        "lng": "57.2232"
+      }
+    },
+    "phone": "024-648-3804",
+    "website": "ambrose.net",
+    "company": {
+      "name": "Hoeger LLC",
+      "catchPhrase": "Centralized empowering task-force",
+      "bs": "target end-to-end models"
+    }
+  }
+]
